@@ -6,7 +6,7 @@ on:
 
 jobs:
   build:
-    name: Build and analyze
+    name: SAST with SonarCloud
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
