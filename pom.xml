@@ -27,7 +27,11 @@
       <url>https://www.gnu.org/licenses/gpl-2.0.txt</url>
     </license>
   </licenses>
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> parent of 74a50f32 (Update pom.xml)
   <developers>
     <developer>
       <id>mayhew64</id>
@@ -85,7 +89,7 @@
       </properties>
     </developer>
   </developers>
-                
+
   <mailingLists>
     <mailingList>
       <name>OWASP WebGoat Mailing List</name>
